@@ -1,6 +1,6 @@
 platform :ios, '11.0'
 use_frameworks!
 
-target 'AudioKit-play' do
+target 'AudioKit-loadSF-carthage' do
   pod 'AudioKit', '~> 4.0'
 end
